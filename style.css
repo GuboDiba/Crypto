@@ -1,0 +1,259 @@
+.body{
+    background-color: black;
+    color: white;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 20%;
+    justify-content: space-between;
+    width: 60%;
+    font-weight: 700;
+    margin-top: -3%;
+    
+    
+}
+
+.bdy{
+    /* display: flex;
+    margin-top: 3%;
+    width: 100%; */
+    /* justify-content: space-between; */
+}
+#button{
+    background-color: rgb(52, 230, 52);
+    padding-right: 50%;
+    border-radius: 10%;
+ 
+    
+    /* margin-right: 5%; */
+
+ 
+}
+#btn{
+    /* width: 90%; */
+    margin-left: 89%;
+    margin-top: -3%;
+}
+#logo{
+    margin-left: 10%;
+    margin-top: 4%;
+   
+   
+}
+#sec{
+    font-weight: 700;
+}
+.man{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    margin-right: 5%;
+    margin-left: 10%;
+    
+}
+
+#get{
+    background-color:rgb(52, 230, 52);
+    border-radius: 10%;
+    padding: 5%;
+    padding-left: 7%;
+    padding-right: 7%;
+    margin-top: 8%;
+}
+.trust{
+    margin-top: 8%;
+}
+#green{
+    width: 102%;
+}
+.buy{
+    color: white;
+    margin-left: 10%;
+    display: flex;
+    margin-top: 3%;
+}
+#viw{
+    margin-left: 50%;
+    color: rgb(71, 129, 139);
+}
+
+
+.invest{
+    color: white;
+}
+
+/* .table{
+    margin-left: 0%;
+} */
+.thead th{
+    color: #808080;
+    width: 25%;
+}
+
+td,
+th{
+    padding: 16px 24px;
+    text-align: left;
+    color: #D6D6D6;
+    font-weight: 600;
+}
+.table{
+    width: 80%;
+    margin-top: 1%;
+    font-size: 1.2rem;
+    border-collapse: collapse;
+    margin-left: 10%;
+    margin-right: 10%;
+    background: radial-gradient( #000124, #1A1A1A);
+    border-radius: 11px;
+    box-shadow: 0 10px 30px rgb(0, 0, 0,0.5);
+    margin-bottom: 5%;
+    justify-content: space-around;
+}
+#bit{
+    background-color: rgb(255, 255, 0);
+}
+.greenc{
+    color: rgb(52, 230, 52);
+}
+.redc{
+    color: rgb(190, 50, 50);
+}
+.buybt{
+    padding: 15%;
+    padding-left: 30%;
+    padding-right: 30%;
+    background: radial-gradient( #c21408, #db2d2d);
+    color: white;
+    border-radius: 40%;
+}
+.buyb{
+    padding: 15%;
+    padding-left: 30%;
+    padding-right: 30%;
+    background: radial-gradient( #000124, #1A1A1A);
+    color: white;
+    border-radius: 40%;
+
+}
+.mirror{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+   
+}
+.easy{
+    /* padding: 30%; */
+    padding-left: 30%;
+    padding-right: 30%;
+    background-color:rgb(66, 65, 65);
+    box-shadow: 0 12px 16px 0 rgba(230, 227, 227, 0.24),0 17px 50px 0 rgba(230, 227, 227, 0.24);
+    margin-bottom: 20%;
+    margin-right: 0%;
+
+}
+.best{
+    padding: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color:rgb(66, 65, 65);
+    box-shadow: 0 12px 16px 0 rgba(230, 227, 227, 0.24),0 17px 50px 0 rgba(230, 227, 227, 0.24);
+    /* margin-bottom: 20%; */
+ 
+}
+.vault{
+    padding: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color:rgb(66, 65, 65);
+    box-shadow: 0 12px 16px 0 rgba(230, 227, 227, 0.24),0 17px 50px 0 rgba(230, 227, 227, 0.24); 
+}
+.user{
+    margin-left: 10%;
+    margin-top: 20%;
+}
+.crypt{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 15%;
+    margin-bottom: 10%;
+    
+}
+#incry{
+    color: rgb(52, 230, 52) ;
+    padding-top: 5%;
+}
+.exp{
+    padding: 5%;
+    border-color:rgb(52, 230, 52);
+    color: rgb(52, 230, 52);
+    background-color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 10%;
+    border-radius: 10%;
+}
+/* #count{
+   margin-bottom: 10%;
+} */
+.nine{
+    background-color: palevioletred;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 10%;
+    border-radius: 5%;
+    margin-top: 8%;
+}
+.twoo{
+    background-color: rgb(0, 0, 255);
+    margin-left: 6%;
+    padding-left: 5%;
+    padding-top: 5%;
+    margin-top: -8%;
+    border-radius: 5%;
+}
+#most{
+    margin-left: 60%;
+}
+.circle{
+   margin-top: -15%;
+    margin-left: 20%;
+}
+#cil{
+    width: 120%;
+    height: 120%;
+}
+.cir{
+    display: flex;
+    margin-left: 10%;
+}
+.bel{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+#cla{
+    background-color:rgb(66, 65, 65);
+    border-color: #808080;
+    padding: 10%;
+    
+}
+.clarity{
+    display: flex;
+}
+.phone{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+#gett{
+    color: rgb(52, 230, 52) ;
+}
+#pho{
+    margin-left: 10%;
+}
+#one{
+    width: 100%;
+    height: 100%;
+}
